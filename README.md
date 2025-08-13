@@ -44,9 +44,10 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   
 Raw form of Data
 
-![Image_alt][(https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/1A.JPG)](https://github.com/Menieleven/BANK-CAMPAIGNS-RECORDS/blob/main/BANK%20ROUGH.png)
+![Image_alt](https://github.com/Menieleven/BANK-CAMPAIGNS-RECORDS/blob/main/BANK%20ROUGH.png)
 
-
+CLEANED DATA
+![Image alt](https://github.com/Menieleven/BANK-CAMPAIGNS-RECORDS/blob/main/clean%20data.JPG)
 
 Sum of total Revenue by Region using excel function SUMIF
 
