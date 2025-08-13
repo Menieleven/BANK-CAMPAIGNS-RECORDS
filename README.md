@@ -42,9 +42,9 @@ then we went ahead with Data Cleaning, Removing Duplicates value
   Select Data Range, Choose where to place the pivot table (a new worksheet or in the existing worksheet)
   Build customize and format the table
   
-Summarize Total sales by product and pie chart representation
+Raw form of Data
 
-![Image_alt](https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/1A.JPG)
+![Image_alt][(https://github.com/Menieleven/MENI-LITA-PROJECT/blob/1aded077d9d35a9eb406887866dd32c9dd3ae2ef/1A.JPG)](https://github.com/Menieleven/BANK-CAMPAIGNS-RECORDS/blob/main/BANK%20ROUGH.png)
 
 
 
